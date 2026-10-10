@@ -26,7 +26,3 @@ This system simulates a relational database and transaction engine using **only*
 ## 💻 Compilation & Usage
 
 Since this project relies purely on standard C libraries, it can be compiled on any machine with a C compiler (like GCC or Clang) without external dependencies.
-
-**To compile:**
-```bash
-gcc main.c -o library_system
